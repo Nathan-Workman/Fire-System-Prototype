@@ -1,0 +1,17 @@
+################################################################################################
+#FIREALARM SYSTEM PROTOTYPE####
+#Created by Morgan Hester, Rachel Martin, and Nathan Workman
+#Version Number: .01
+#This is the Temp.py help file. 
+#Please ensure all equipment is wired correctly!
+#Date Last Updated: 4/24/19
+################################################################################################
+
+The Temp.py file detects the temperature of the room. 
+It is used in the Console.sh file. 
+If this file is corrupted contact support.
+
+Note: The temperature is recorded in Fahrenheit.
+
+Please contact support for any questions by calling ###-###-####.
+

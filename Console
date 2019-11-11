@@ -1,0 +1,22 @@
+################################################################################################
+#FIREALARM SYSTEM PROTOTYPE####
+#Created by Morgan Hester, Rachel Martin, and Nathan Workman
+#Version Number: .01
+#This is the Console help file. 
+#Please ensure all equipment is wired correctly!
+#Date Last Updated: 4/24/19
+################################################################################################
+
+The Console.sh file is the main code that enables the sensors and alarms to communicate in order to keep you safe from fire.
+The alarm will sound and sprinklers will turn on  when your main system detects a temperature greater than 130 and the subsystem detects a temperature greater than 100.
+If there is an error in the subsystem's detection the alarm and sprinklers will turn on.
+The alarm and sprinklers can be turned off by pressing the bottom button.
+
+In order to test your software hold the top button for 3 seconds or until you hear the alarm.
+To stop the alarm press the button below it until the sound stops.
+This test will turn on your alarm and sprinkler lights.
+
+Note: FIRE = BAD (Do not approach)
+
+Please contact support for any questions by calling ###-###-####.
+

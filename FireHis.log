@@ -1,0 +1,25 @@
+###############################################################################################
+#FIREALARM SYSTEM PROTOTYPE####
+#Created by Morgan Hester, Rachel Martin, and Nathan Workman
+#Version Number: .01
+#This is the Log File, it stores the history of previous Fires
+#Please ensure all equipment is wired correctly!
+#The Main Console is located at /home/pi/FireSys/Main
+#Date Last Updated: 4/24/19
+################################################################################################
+
+
+2019-04-24 10:50:13
+System Test. Temp:  75
+2019-04-25 13:20:34
+System Test. Temp:  75
+2019-04-25 14:35:37
+System Test. Temp:  77
+2019-04-25 16:31:00
+System Test. Temp:  77
+2019-04-25 16:32:39
+System Test. Temp:  77
+2019-04-25 16:32:54
+System Test. Temp:  78
+2019-04-25 16:34:02
+System Test. Temp:  82
